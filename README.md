@@ -1,5 +1,5 @@
 # calcStat_FtU
-A function returns calculated statistical values of F, t, and U, with two given numerical arrays.
+A function returns calculated statistical values of F, t, and U, with two given numerical arrays.  
 https://github.com/YujiSODE/calcStat_FtU
 
 >Copyright (c) 2016 Yuji SODE \<yuji.sode@gmail.com\>  
